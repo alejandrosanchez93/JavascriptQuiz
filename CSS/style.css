@@ -58,3 +58,8 @@ body {
     outline: 0;
 }
 
+#score {
+    color: #2b2b2b;
+    text-align: center;
+    font-size: 30px;
+}
