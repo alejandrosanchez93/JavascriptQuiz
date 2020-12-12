@@ -1,0 +1,59 @@
+#container {
+    position: absolute;
+    left: 30%;
+    top: 25%;
+    width: 500px;
+    height: 500px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#start {
+    background-color: blueviolet;
+    margin-left: 34%;
+    padding: 15px 32px;
+    font-size: 18px;
+    color: white;
+}
+
+#question {
+    font-weight: 100;
+    margin: 20px;
+}
+
+#timer {
+    float: right;
+}
+
+#back {
+    background-color: blueviolet;
+    font-size: 15px;
+    color: whitesmoke;
+    position: relative;
+    padding: 15px;
+    top: 30%;
+    left: 55%;
+    width: auto;
+    text-align: center;
+}
+
+#clear {
+    background-color: blueviolet;
+    font-size: 15px;
+    color: whitesmoke;
+    position: relative;
+    padding: 15px;
+    top: 30%;
+    right: 5%;
+    text-align: center;
+}
+
+#submit {
+    background-color: blueviolet;
+    color: whitesmoke;
+    font-size: 15px;
+    margin-left: 33%;
+    margin-top: 33%;
+}
